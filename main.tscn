@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://b4uiq20w73wkx"]
+
+[ext_resource type="ArrayMesh" uid="uid://t75mf11iavub" path="res://Tabletop.obj" id="1_iip1r"]
+
+[node name="Main" type="Node3D"]
+
+[node name="Tabletop" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.07167, 0, -2.2048)
+mesh = ExtResource("1_iip1r")

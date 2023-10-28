@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://t75mf11iavub"
+path="res://.godot/imported/Tabletop.obj-844d0ff7611adc328e31dbcdbfc52d3e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Tabletop.obj-844d0ff7611adc328e31dbcdbfc52d3e.mesh"]
+
+source_file="res://Tabletop.obj"
+dest_files=["res://.godot/imported/Tabletop.obj-844d0ff7611adc328e31dbcdbfc52d3e.mesh", "res://.godot/imported/Tabletop.obj-844d0ff7611adc328e31dbcdbfc52d3e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
